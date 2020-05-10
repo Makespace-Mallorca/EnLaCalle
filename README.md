@@ -13,6 +13,8 @@ Entendemos que la prioridad es la colaboración con el cumplimiento de las recom
 * **Acceso libre**. Toda la información es de libre acceso para personas e instituciones. Con la única limitación de los capacidad de los recursos de la plataforma. 
 * **Colaboración**. Toda sugerencia de cambio, mejora, nuevo enfoque o crítica. Será bien venida. No hay límites en la colaboración. 
 
+## Arquitectura
+![Arquitectura v1](https://raw.githubusercontent.com/Makespace-Mallorca/EnLaCalle/master/images/EnLaCalle-Architectura.png)
 
 ## Agradecimientos y referencias
 * 陳亮手痕定律 @moononournation por el manual para montar un scanner BLE sobre ESP32 https://www.instructables.com/id/Nano-ESP32-BLE-Scanner/
